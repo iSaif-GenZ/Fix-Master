@@ -74,11 +74,11 @@ lib/
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_2.png" width="30%" alt="Home Page" />
+  <img src="assets/screenshots/screenshot_2.jpg" width="30%" alt="Home Page" />
   &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_3.png" width="30%" alt="Add Maintenance Ticket" />
+  <img src="assets/screenshots/screenshot_3.jpg" width="30%" alt="Add Maintenance Ticket" />
   &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_4.png" width="30%" alt="Ticket Details" />
+  <img src="assets/screenshots/screenshot_4.jpg" width="30%" alt="Ticket Details" />
 </p>
 
 <p align="center">
