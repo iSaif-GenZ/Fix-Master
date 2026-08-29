@@ -74,18 +74,20 @@ lib/
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_2.jpg" width="30%" alt="Home Page" />
+  <img src="assets/screenshots/screenshot_1.jpg" width="23%" alt="Splash Screen" />
   &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_3.jpg" width="30%" alt="Add Maintenance Ticket" />
+  <img src="assets/screenshots/screenshot_2.jpg" width="23%" alt="Home Page" />
   &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_4.jpg" width="30%" alt="Ticket Details" />
+  <img src="assets/screenshots/screenshot_3.jpg" width="23%" alt="Add Maintenance Ticket" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/screenshot_4.jpg" width="23%" alt="Ticket Details" />
 </p>
 
 <p align="center">
-  <sub><b>Home Page</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Add Maintenance Ticket</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Ticket Details</b></sub>
+  <sub><b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Home Page</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Add Maintenance Ticket</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Ticket Details</b></sub>
 </p>
 
-> 📌 Create a `screenshots/` folder in the project root and add your three images there as `screenshot_1.png`, `screenshot_2.png`, and `screenshot_3.png` (or update the paths above to match your file names).
+> 📌 Add your four screenshots to `assets/screenshots/` as `screenshot_1.jpg` (Splash Screen), `screenshot_2.jpg` (Home Page), `screenshot_3.jpg` (Add Maintenance Ticket), and `screenshot_4.jpg` (Ticket Details) — or update the paths above to match your file names.
 
 ---
 
