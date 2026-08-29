@@ -163,4 +163,4 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 ## 👤 Author
 
-Built with ❤️ for repair shops that deserve better tools than pen and paper.
+Built with ❤️ by [@saif_vanta](https://t.me/saif_vanta) for repair shops that deserve better tools than pen and paper.
